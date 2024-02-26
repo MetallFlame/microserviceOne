@@ -1,0 +1,11 @@
+E:\akriskovets\microserviceOne\target\generated-sources\protobuf\java\com\akriskovets\grpc\UserServiceGRPCOuterClass.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\controller\MainController.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\MicroserviceApplication.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\DTO\MessageDTO.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\entity\Message.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\repository\MessageRepository.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\service\MessageService.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\service\UserService.java
+E:\akriskovets\microserviceOne\target\generated-sources\protobuf\grpc-java\com\akriskovets\grpc\UserServiceGRPCGrpc.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\DTO\UserDTO.java
+E:\akriskovets\microserviceOne\src\main\java\com\akriskovets\microservice\mapper\MessageMapper.java
